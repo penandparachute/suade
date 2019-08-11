@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Privacy Policy
+### Last updated: August 11, 2019
 
 You can use the [editor on GitHub](https://github.com/penandparachute/suade/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Last updated: August 11, 2019
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
